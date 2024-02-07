@@ -20,7 +20,6 @@ session_start();
     <link href="css/style.css" rel="stylesheet"> </head>
 
 <body class="home">
-    
         <header id="header" class="header-scroll top-header headrom">
             <nav class="navbar navbar-dark">
                 <div class="container">
@@ -30,8 +29,7 @@ session_start();
                         <ul class="nav navbar-nav">
                             <li class="nav-item"> <a class="nav-link active" href="index.php">Home <span class="sr-only">(current)</span></a> </li>
                             <li class="nav-item"> <a class="nav-link active" href="restaurants.php">Restaurants <span class="sr-only"></span></a> </li>
-                            
-                           
+                         
 							<?php
 						if(empty($_SESSION["user_id"]))
 							{
@@ -249,7 +247,6 @@ while($r=mysqli_fetch_array($query_res)) {
         
         <footer class="footer">
             <div class="container">
-                <!-- top footer statrs -->
                 <div class="row top-footer">
                     <div class="col-xs-12 col-sm-3 footer-logo-block color-gray">
                         <a href="#"> <img src="images/DELI-LOGO12.png" alt="Footer logo"> </a> <span>Choose it &amp; Enjoy your meals! </span> </div>

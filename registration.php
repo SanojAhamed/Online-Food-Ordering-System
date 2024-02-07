@@ -203,25 +203,6 @@ if(isset($_POST['submit'] ))
 						<li>Easy cancellations</li>
 						<li>home delivery</li>
 						</ul>
-                        <hr>
-                        <p>Frequently Asked?</p>
-                        <div class="panel">
-                           <div class="panel-heading">
-                              <h4 class="panel-title"><a data-parent="#accordion" data-toggle="collapse" class="panel-toggle collapsed" href="#faq1" aria-expanded="false"><i class="ti-info-alt" aria-hidden="true"></i>What is FoodPicky Customer Care Number?</a></h4>
-                           </div>
-                           <div class="panel-collapse collapse" id="faq1" aria-expanded="false" role="article" style="height: 0px;">
-                              <div class="panel-body">We value our customer’s time and hence moved away from a single customer care number to a comprehensive chat-based support system for quick and easy resolution.</div>
-                           </div>
-                        </div>
-						
-						<div class="panel">
-                           <div class="panel-heading">
-                              <h4 class="panel-title"><a data-parent="#accordion" data-toggle="collapse" class="panel-toggle" href="#faq2" aria-expanded="true"><i class="ti-info-alt" aria-hidden="true"></i>Do you charge for delivery?</a></h4>
-                           </div>
-                           <div class="panel-collapse collapse" id="faq2" aria-expanded="true" role="article">
-                              <div class="panel-body">Delivery fee varies from city to city and is applicable if order value is below a certain amount. Additionally, certain restaurants might have fixed delivery fees. Delivery fee (if any) is specified on the 'Review Order' page.</div>
-                           </div>
-                        </div>
                      </div>
                
                   </div>

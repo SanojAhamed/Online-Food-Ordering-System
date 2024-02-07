@@ -1,7 +1,7 @@
 <?php
-session_start(); //start session
-session_destroy(); // distroy all the current sessions
+session_start(); 
+session_destroy(); 
 $url = 'login.php';
-header('Location: ' . $url); // redireted to login page
+header('Location: ' . $url); 
 
 ?>

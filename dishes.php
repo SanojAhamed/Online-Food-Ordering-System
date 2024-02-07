@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
 <?php
-include("connection/connect.php"); // connection to db
+include("connection/connect.php"); 
 error_reporting(0);
 session_start();
 
-include_once 'product-action.php'; //including controller
+include_once 'product-action.php'; 
 
 ?>
 
