@@ -1,11 +1,10 @@
-# Online Food Ordering System
+# Deli - Online Food Ordering System
 
 ![image](https://github.com/SanojAhamed/Online-Food-Ordering-System/assets/97176600/ae5ba431-b6d7-427c-b631-ffc86027508d)
 
 Demonstration Video
 
 https://github.com/SanojAhamed/Online-Food-Ordering-System/assets/97176600/4d4cc912-8ae3-4e07-bd8e-ca0fe7862bd9
-
 
 
 ## Overview
