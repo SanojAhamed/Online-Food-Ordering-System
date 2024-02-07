@@ -35,7 +35,7 @@ The Online Food Ordering System is a web-based application that allows users to 
 - Import the database schema from `Deli_db.sql` into your MySQL database.
 - Configure the database connection settings in `connection/connect.php`.
 3. **Web Server Configuration:**
-- Set up a web server (e.g., Apache or Nginx) to serve the PHP files.
+- Set up a web server (e.g., Apache ) to serve the PHP files.
 4. **Start the Application:**
 - Open your web browser and navigate to the project directory.
 
