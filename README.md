@@ -1,5 +1,13 @@
 # Online Food Ordering System
 
+![image](https://github.com/SanojAhamed/Online-Food-Ordering-System/assets/97176600/ae5ba431-b6d7-427c-b631-ffc86027508d)
+
+Demonstration Video
+
+https://github.com/SanojAhamed/Online-Food-Ordering-System/assets/97176600/4d4cc912-8ae3-4e07-bd8e-ca0fe7862bd9
+
+
+
 ## Overview
 The Online Food Ordering System is a web-based application that allows users to browse restaurants, view their menus, and place orders for delivery or pickup. This project aims to provide a convenient platform for users to order food from their favorite restaurants with ease.
 
@@ -24,7 +32,7 @@ The Online Food Ordering System is a web-based application that allows users to 
    git clone https://github.com/your-username/online-food-ordering-system.git
 
 2. **Database Setup:**
-- Import the database schema from `database.sql` into your MySQL database.
+- Import the database schema from `Deli_db.sql` into your MySQL database.
 - Configure the database connection settings in `connection/connect.php`.
 3. **Web Server Configuration:**
 - Set up a web server (e.g., Apache or Nginx) to serve the PHP files.
