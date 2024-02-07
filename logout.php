@@ -1,7 +1,5 @@
 <?php
-session_start(); 
-session_destroy(); 
+session_start();
+session_destroy();
 $url = 'login.php';
-header('Location: ' . $url); 
-
-?>
+header('Location: ' . $url);
